@@ -33,6 +33,8 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **App Engine**: Managed App Platform [<sup>:link:</sup>](https://cloud.google.com/appengine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/appengine/docs/)
 * **Kubernetes Engine**: Managed Kubernetes/Containers [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/)
 * **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/)
+* **Cloud Run (new)**: Serverless for Docker Containers [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
+* **Anthos (new)**: Portable Enterprise Serverless Platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
   
   
 #### Storage Products  
@@ -50,11 +52,12 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Firestore**: Strongly-consistent Serverless Document DB [<sup>:link:</sup>](https://cloud.google.com/firestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/firestore/docs/)
 * **Cloud Memorystore**: Managed Redis [<sup>:link:</sup>](https://cloud.google.com/memorystore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/memorystore/docs/)
 * **Cloud Spanner**: Horizontally Scalable Relational DB [<sup>:link:</sup>](https://cloud.google.com/spanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/spanner/docs/)
-* **Cloud SQL**: Managed MySQL and PostgreSQL [<sup>:link:</sup>](https://cloud.google.com/sql/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/)
+* **Cloud SQL**: Managed MySQL and PostgreSQL (SQL Server in Alpha) [<sup>:link:</sup>](https://cloud.google.com/sql/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/)
   
 #### Data and Analytics Products  
   
 * **Cloud Composer**: Managed Workflow Orchestration Service [<sup>:link:</sup>](https://cloud.google.com/composer/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/composer/docs/)
+* **Cloud Data Fusion (new)**: Graphically Manage Data Pipelines [<sup>:link:</sup>](https://cloud.google.com/data-fusion/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-fusion/docs/)
 * **Cloud Dataflow**: Stream/batch data processing [<sup>:link:</sup>](https://cloud.google.com/dataflow/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataflow/docs/)
 * **Cloud Datalab**: Managed Jupyter Notebook [<sup>:link:</sup>](https://cloud.google.com/datalab/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/datalab/docs/)
 * **Cloud Dataprep**: Visual data wrangling [<sup>:link:</sup>](https://cloud.google.com/dataprep/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataprep/docs/)
@@ -63,12 +66,17 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Google BigQuery**: Data Warehouse/Analytics [<sup>:link:</sup>](https://cloud.google.com/bigquery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/docs/)
 * **Google Data Studio**: Collaborative Data Exploration/Dashboarding [<sup>:link:</sup>](https://datastudio.google.com/overview) [<sup>:page_facing_up:</sup>](https://datastudio.google.com/overviewdocs/)
 * **Google Genomics**: Managed Genomics Platform [<sup>:link:</sup>](https://cloud.google.com/genomics/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/genomics/docs/)
+
   
 #### AI and Machine Learning Products  
   
+* **AI Hub (new)**: Hosted AI Component Repository [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
+* **Cloud AI Building Blocks (new)**: Hosted AI Component Repository [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
 * **Cloud AutoML Natural Language**: Custom text classification models [<sup>:link:</sup>](https://cloud.google.com/natural-language/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/docs/)
+* **Cloud AutoML Tables (new)**: ML Models from Structured Data [<sup>:link:</sup>](https://cloud.google.com/automl-tables/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl-tables/docs/)
 * **Cloud AutoML Translate**: Custom domain-specific translation [<sup>:link:</sup>](https://cloud.google.com/translate/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/translate/docs/)
-* **Cloud AutoML Vision**: Custom image classification models [<sup>:link:</sup>](https://cloud.google.com/automl/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl/docs/)
+* **Cloud AutoML Video Intelligence (new)**: Custom Video Classification Models [<sup>:link:</sup>](https://cloud.google.com/video-intelligence/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/video-intelligence/automl/docs/)
+* **Cloud AutoML Vision**: Custom Image Classification Models [<sup>:link:</sup>](https://cloud.google.com/automl/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl/docs/)
 * **Cloud Job Discovery**: Job Search with ML [<sup>:link:</sup>](https://cloud.google.com/job-discovery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/job-discovery/docs/)
 * **Cloud Deep Learning VM Image**: Preconfigured VMs for deep learning [<sup>:link:</sup>](https://cloud.google.com/deep-learning-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deep-learning-vm/docs/)
 * **Cloud Machine Learning Engine**: Managed Platform for ML [<sup>:link:</sup>](https://cloud.google.com/ml-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/)
@@ -80,7 +88,9 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Video Intelligence**: Scene-level Video Annotation [<sup>:link:</sup>](https://cloud.google.com/video-intelligence/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/video-intelligence/docs/)
 * **Cloud Vision API**: Image Recognition and Classification [<sup>:link:</sup>](https://cloud.google.com/vision/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vision/docs/)
 * **Dialogflow Enterprise Edition**: Create Conversational Interfaces [<sup>:link:</sup>](https://cloud.google.com/dialogflow-enterprise/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dialogflow-enterprise/docs/)
-  
+* **Recommendations AI (new)**: Create Custom Recommendations [<sup>:link:</sup>](https://cloud.google.com/recommendations/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/recommendations-ai/docs/)
+
+
 #### Networking Products  
   
 * **Carrier Peering**: Peer through a carrier [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/how-to/carrier-peering)
