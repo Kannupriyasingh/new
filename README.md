@@ -34,7 +34,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Kubernetes Engine (GKE)**: Managed Kubernetes/Containers [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/)
 * **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/)
 * **Cloud Run :new:**: Serverless for Containerized Applications [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
-* **Anthos :new:**: Enterprise Hybrid Cloud Platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
+* **Anthos :new:**: Enterprise Hybrid/Multi Cloud Platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
   
   
 #### Storage Products  
