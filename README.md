@@ -33,7 +33,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **App Engine**: Managed App Platform [<sup>:link:</sup>](https://cloud.google.com/appengine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/appengine/docs/)
 * **Kubernetes Engine (GKE)**: Managed Kubernetes/Containers [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/)
 * **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/)
-* **Cloud Run :new:**: Serverless for Application Containers [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
+* **Cloud Run :new:**: Serverless for Containerized Applications [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
 * **Anthos :new:**: Enterprise Hybrid Cloud Platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
   
   
@@ -72,7 +72,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 #### AI and Machine Learning Products  
   
 * **AI Hub :new:**: Hosted AI Component Repository [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
-* **AI Platform Notebooks :new:**: Managed JupyterLab notebook instances [<sup>:link:</sup>](https://cloud.google.com/ai-platform-notebooks/)[<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/notebooks/)
+* **AI Platform Notebooks :new:**: Managed JupyterLab Notebook Instances [<sup>:link:</sup>](https://cloud.google.com/ai-platform-notebooks/)[<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/notebooks/)
 * **Cloud AI Building Blocks :new:**: Hosted AI Component Repository [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
 * **Cloud AutoML Natural Language**: Custom text classification models [<sup>:link:</sup>](https://cloud.google.com/natural-language/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/docs/)
 * **Cloud AutoML Tables :new:**: ML Models from Structured Data [<sup>:link:</sup>](https://cloud.google.com/automl-tables/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl-tables/docs/)
