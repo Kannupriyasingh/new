@@ -71,6 +71,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 #### AI and Machine Learning Products  
   
 * **AI Hub (new)**: Hosted AI Component Repository [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
+* **AI Platform Notebooks (new)**: Managed JupyterLab notebook instances [<sup>:link:</sup>](https://cloud.google.com/ai-platform-notebooks/)[<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/notebooks/)
 * **Cloud AI Building Blocks (new)**: Hosted AI Component Repository [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
 * **Cloud AutoML Natural Language**: Custom text classification models [<sup>:link:</sup>](https://cloud.google.com/natural-language/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/docs/)
 * **Cloud AutoML Tables (new)**: ML Models from Structured Data [<sup>:link:</sup>](https://cloud.google.com/automl-tables/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl-tables/docs/)
@@ -89,6 +90,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Vision API**: Image Recognition and Classification [<sup>:link:</sup>](https://cloud.google.com/vision/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vision/docs/)
 * **Dialogflow Enterprise Edition**: Create Conversational Interfaces [<sup>:link:</sup>](https://cloud.google.com/dialogflow-enterprise/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dialogflow-enterprise/docs/)
 * **Recommendations AI (new)**: Create Custom Recommendations [<sup>:link:</sup>](https://cloud.google.com/recommendations/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/recommendations-ai/docs/)
+
 
 
 #### Networking Products  
@@ -172,6 +174,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **API Monetization**: Monetize APIs [<sup>:link:</sup>](https://cloud.google.com/api-monetization/)
 * **Apigee API Platform**: Develop, secure, monitor APIs [<sup>:link:</sup>](https://cloud.google.com/apigee-api-management/)
 * **Apigee Sense**: API protection from attacks [<sup>:link:</sup>](https://cloud.google.com/apigee-sense/)
+* **Apigee Hybrid (new)**: Manage hybrid/multi-cloud API environments [<sup>:link:</sup>](https://cloud.google.com/apigee/api-management/hybrid/)[<sup>:page_facing_up:</sup>](https://docs.apigee.com/hybrid/beta2)
 * **Cloud Endpoints**: Cloud API Gateway [<sup>:link:</sup>](https://cloud.google.com/endpoints/)
 * **Cloud Healthcare API**: Healthcare System GCP Interoperability [<sup>:link:</sup>](https://cloud.google.com/healthcare-api/)
 * **Developer Portal**: API Managment Portal [<sup>:link:</sup>](https://cloud.google.com/developer-portal/)
@@ -322,4 +325,5 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Ruby**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/ruby/docs/)
 * **PHP**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/php/docs/)
 * **.NET/C#**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/dotnet/docs/)
+
 
