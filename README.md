@@ -31,7 +31,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 * **Compute Engine**: Virtual Machines, Disks, Network [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/)
 * **App Engine**: Managed App Platform [<sup>:link:</sup>](https://cloud.google.com/appengine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/appengine/docs/)
-* **Kubernetes Engine**: Managed Kubernetes/Containers [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/)
+* **Kubernetes Engine (GKE)**: Managed Kubernetes/Containers [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/)
 * **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/)
 * **Cloud Run (new)**: Serverless for Application Containers [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
 * **Anthos (new)**: Enterprise Hybrid Cloud Platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
@@ -63,6 +63,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Dataprep**: Visual data wrangling [<sup>:link:</sup>](https://cloud.google.com/dataprep/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataprep/docs/)
 * **Cloud Dataproc**: Managed Spark and Hadoop [<sup>:link:</sup>](https://cloud.google.com/dataproc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataproc/docs/)
 * **Cloud Pub/Sub**: Global Real-time Messaging [<sup>:link:</sup>](https://cloud.google.com/pubsub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/pubsub/docs/)
+* **Data Catalog (new)**: Metadata Management Service  [<sup>:link:</sup>](https://cloud.google.com/data-catalog/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-catalog/docs/)
 * **Google BigQuery**: Data Warehouse/Analytics [<sup>:link:</sup>](https://cloud.google.com/bigquery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/docs/)
 * **Google Data Studio**: Collaborative Data Exploration/Dashboarding [<sup>:link:</sup>](https://datastudio.google.com/overview) [<sup>:page_facing_up:</sup>](https://datastudio.google.com/overviewdocs/)
 * **Google Genomics**: Managed Genomics Platform [<sup>:link:</sup>](https://cloud.google.com/genomics/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/genomics/docs/)
@@ -107,6 +108,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **IPsec VPN**: Virtual private network connection [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/vpn/overview)
 * **Network Service Tiers**: Price vs Performance Tiering [<sup>:link:</sup>](https://cloud.google.com/network-tiers/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/network-tiers/docs/)
 * **Network Telemetry**: Network Telemetry Service [<sup>:link:</sup>](https://cloud.google.com/network-telemetry/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/using-flow-logs/)
+* **Traffic Director (new)**: Service Mesh Traffic Management [<sup>:link:</sup>](https://cloud.google.com/traffic-director/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/traffic-director/docs/)
 * **Virtual Private Cloud**: Software Defined Networking [<sup>:link:</sup>](https://cloud.google.com/vpc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/)
   
 #### Internet of Things Products  
@@ -151,8 +153,10 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
   
 * **Cloud SDK**: CLI for GCP [<sup>:link:</sup>](https://cloud.google.com/sdk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sdk/docs/)
 * **Cloud Build**: Continuous integration/delivery platform [<sup>:link:</sup>](https://cloud.google.com/cloud-build/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/cloud-build/docs/)
+* **Cloud Code (new)**: Kubernetes Application IDE tools [<sup>:link:</sup>](https://cloud.google.com/code/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/code/docs/)
 * **Cloud Source Repositories**: Hosted Private Git Repos [<sup>:link:</sup>](https://cloud.google.com/source-repositories/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/source-repositories/docs/)
 * **Cloud Scheduler**: Managed cron job service [<sup>:link:</sup>](https://cloud.google.com/scheduler/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/scheduler/docs/)
+* **Cloud Tasks (new)**: Asynchronous task execution [<sup>:link:</sup>](https://cloud.google.com/tasks/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/tasks/docs/)
 * **Cloud Tools for IntelliJ**: IntelliJ GCP Tools [<sup>:link:</sup>](https://cloud.google.com/intellij/)
 * **Cloud Tools for PowerShell**: PowerShell GCP Tools [<sup>:link:</sup>](https://cloud.google.com/powershell/)
 * **Cloud Tools for Visual Studio**: Visual Studio GCP Tools [<sup>:link:</sup>](https://cloud.google.com/visual-studio/)
@@ -325,5 +329,3 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Ruby**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/ruby/docs/)
 * **PHP**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/php/docs/)
 * **.NET/C#**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/dotnet/docs/)
-
-
