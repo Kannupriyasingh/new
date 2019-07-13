@@ -250,7 +250,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Google Analytics for Firebase**: Mobile App Analytics [<sup>:link:</sup>](https://firebase.google.com/products/analytics/)
 * **ML Kit for Firebase**: ML APIs for Mobile [<sup>:link:</sup>](https://firebase.google.com/products/ml-kit/)
   
-#### GCP Foundational Open Source Projects  
+#### GCP Foundational Open Source Projects
   
 * **Apache Beam**: Batch/Streaming Data Processing [<sup>:link:</sup>](https://beam.apache.org/)
 * **gRPC**: RPC Framework [<sup>:link:</sup>](https://grpc.io/)
@@ -288,8 +288,6 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 #### Additional Resources
 
-* **Google Cloud Certifications**:[<sup>:link:</sup>](https://cloud.google.com/certification/)
-* **Google Cloud Data Center Locations**:[<sup>:link:</sup>](https://cloud.google.com/about/locations/)
 * **Google Cloud Solutions Library**:[<sup>:link:</sup>](https://cloud.google.com/solutions/)
 * **Google Cloud Support Hub**:[<sup>:link:</sup>](https://cloud.google.com/support-hub/)
 * **GCP Pricing**: [<sup>:link:</sup>](https://cloud.google.com/pricing/)
@@ -327,4 +325,3 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Ruby**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/ruby/docs/)
 * **PHP**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/php/docs/)
 * **.NET/C#**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/dotnet/docs/)
-
