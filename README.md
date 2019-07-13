@@ -35,8 +35,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/)
 * **Cloud Run :new:**: Serverless for Containerized Applications [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
 * **Anthos :new:**: Enterprise Hybrid/Multi Cloud Platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
-  
-  
+   
 #### Storage Products  
   
 * **Cloud Storage**: Object Storage and Serving [<sup>:link:</sup>](https://cloud.google.com/storage/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
@@ -67,32 +66,30 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Google BigQuery**: Data Warehouse/Analytics [<sup>:link:</sup>](https://cloud.google.com/bigquery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/docs/)
 * **Google Data Studio**: Collaborative Data Exploration/Dashboarding [<sup>:link:</sup>](https://datastudio.google.com/overview) [<sup>:page_facing_up:</sup>](https://datastudio.google.com/overviewdocs/)
 * **Google Genomics**: Managed Genomics Platform [<sup>:link:</sup>](https://cloud.google.com/genomics/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/genomics/docs/)
+  
+#### AI and Machine Learning Products    
 
-  
-#### AI and Machine Learning Products  
-  
-* **AI Hub :new:**: Hosted AI Component Repository [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
+* **AI Hub :new:**: Hosted AI Component Sharing [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
+* **AI Platform**: Managed Platform for ML [<sup>:link:</sup>](https://cloud.google.com/ai-platform/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/)
+* **AI Platform Deep Learning VMs**: Preconfigured VMs for deep learning [<sup>:link:</sup>](https://cloud.google.com/deep-learning-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deep-learning-vm/docs/)
 * **AI Platform Notebooks :new:**: Managed JupyterLab Notebook Instances [<sup>:link:</sup>](https://cloud.google.com/ai-platform-notebooks/)[<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/notebooks/)
 * **Cloud AI Building Blocks :new:**: Hosted AI Component Repository [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
 * **Cloud AutoML Natural Language**: Custom text classification models [<sup>:link:</sup>](https://cloud.google.com/natural-language/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/docs/)
 * **Cloud AutoML Tables :new:**: ML Models from Structured Data [<sup>:link:</sup>](https://cloud.google.com/automl-tables/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl-tables/docs/)
-* **Cloud AutoML Translate**: Custom domain-specific translation [<sup>:link:</sup>](https://cloud.google.com/translate/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/translate/docs/)
+* **Cloud AutoML Translation**: Custom domain-specific translation [<sup>:link:</sup>](https://cloud.google.com/translate/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/translate/docs/)
 * **Cloud AutoML Video Intelligence :new:**: Custom Video Classification Models [<sup>:link:</sup>](https://cloud.google.com/video-intelligence/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/video-intelligence/automl/docs/)
 * **Cloud AutoML Vision**: Custom Image Classification Models [<sup>:link:</sup>](https://cloud.google.com/automl/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl/docs/)
-* **Cloud Job Discovery**: Job Search with ML [<sup>:link:</sup>](https://cloud.google.com/job-discovery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/job-discovery/docs/)
-* **Cloud Deep Learning VM Image**: Preconfigured VMs for deep learning [<sup>:link:</sup>](https://cloud.google.com/deep-learning-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deep-learning-vm/docs/)
-* **Cloud Machine Learning Engine**: Managed Platform for ML [<sup>:link:</sup>](https://cloud.google.com/ml-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/)
+* **Cloud Talent Solutions**: Job Search with ML [<sup>:link:</sup>](https://cloud.google.com/job-discovery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/job-discovery/docs/)
 * **Cloud Natural Language**: Text Parsing and Analysis [<sup>:link:</sup>](https://cloud.google.com/natural-language/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/docs/)
 * **Cloud Speech-To-Text**: Convert Audio to Text [<sup>:link:</sup>](https://cloud.google.com/speech/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/speech/docs/)
 * **Cloud Text-To-Speech**: Convert Text to Audio [<sup>:link:</sup>](https://cloud.google.com/text-to-speech/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/text-to-speech/docs/)
-* **Cloud TPU**: Specialized Hardware for ML [<sup>:link:</sup>](https://cloud.google.com/tpu/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/tpu/docs/)
+* **Cloud TPU**: Hardware Acceleration for ML [<sup>:link:</sup>](https://cloud.google.com/tpu/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/tpu/docs/)
 * **Cloud Translation API**: Language Detection and Translation [<sup>:link:</sup>](https://cloud.google.com/translate/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/translate/docs/)
 * **Cloud Video Intelligence**: Scene-level Video Annotation [<sup>:link:</sup>](https://cloud.google.com/video-intelligence/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/video-intelligence/docs/)
 * **Cloud Vision API**: Image Recognition and Classification [<sup>:link:</sup>](https://cloud.google.com/vision/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vision/docs/)
 * **Dialogflow Enterprise Edition**: Create Conversational Interfaces [<sup>:link:</sup>](https://cloud.google.com/dialogflow-enterprise/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dialogflow-enterprise/docs/)
+* **Document Understanding AI :new:**: Analyze,Classify,Search Documents [<sup>:link:</sup>](https://cloud.google.com/solutions/document-understanding/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/document-understanding/docs/)
 * **Recommendations AI :new:**: Create Custom Recommendations [<sup>:link:</sup>](https://cloud.google.com/recommendations/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/recommendations-ai/docs/)
-
-
 
 #### Networking Products  
   
@@ -119,6 +116,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
   
 * **Access Transparency**: Audit Cloud Provider Access [<sup>:link:</sup>](https://cloud.google.com/access-transparency/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/audit/access-transparency-overview/)
 * **Binary Authorization**: Kubernetes Deploy-time Security [<sup>:link:</sup>](https://cloud.google.com/binary-authorization/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/binary-authorization/docs/)
+* **Cloud Audit Logs :new:**: Audit Trails for GCP [<sup>:link:</sup>](https://cloud.google.com/audit-logs/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/audit/)
 * **Cloud Data Loss Prevention API**: Classify and Redact Sensitive Data [<sup>:link:</sup>](https://cloud.google.com/dlp/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dlp/docs/)
 * **Cloud HSM**: Hardware Security Module Service [<sup>:link:</sup>](https://cloud.google.com/hsm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/hsm/)
 * **Cloud IAM**: Resource Access Control [<sup>:link:</sup>](https://cloud.google.com/iam/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iam/docs/)
@@ -128,9 +126,12 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Resource Manager**: Cloud Project Metadata Management [<sup>:link:</sup>](https://cloud.google.com/resource-manager/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/resource-manager/docs/)
 * **Cloud Security Scanner**: App Engine Security Scanner [<sup>:link:</sup>](https://cloud.google.com/security-scanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security-scanner/docs/)
 * **Cloud Security Command Center**: Asset inventory, discovery, search, management [<sup>:link:</sup>](https://cloud.google.com/security-command-center/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security-command-center/docs/)
+* **Context-aware Access :new:**: End-user Attribute-based Access Control [<sup>:link:</sup>](https://cloud.google.com/context-aware-access/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iap/docs/cloud-iap-context-aware-access-howto/)
+* **Event Threat Detection :new:**: Scans for Suspicious Activity [<sup>:link:</sup>](https://cloud.google.com/event-threat-detection/) 
 * **Security Key Enforcement**: Two-step Key Verification [<sup>:link:</sup>](https://cloud.google.com/security-key/)
 * **Shielded VMs**: Hardened VMs [<sup>:link:</sup>](https://cloud.google.com/shielded-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security/shielded-cloud/shielded-vm/)
 * **Titan Security Key**: Two-factor Authentication (2FA) Device [<sup>:link:</sup>](https://cloud.google.com/titan-security-key/)
+* **VPC Service Controls :new:**: VPC Constrain Data [<sup>:link:</sup>](https://cloud.google.com/vpc-service-controls/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc-service-controls/docs/)
   
 #### Management Tools Products  
   
@@ -167,11 +168,13 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
   
 #### Migration to GCP  
   
+* **Cloud Data Transfer**: Data Migration Tools/CLI [<sup>:link:</sup>](https://cloud.google.com/products/data-transfer/)
 * **Google Transfer Appliance**: Rentable Data Transport Box [<sup>:link:</sup>](https://cloud.google.com/transfer-appliance/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/transfer-appliance/docs/)
 * **Cloud Storage Transfer Service**: Cloud to Cloud Transfers [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/transfer/)
 * **BigQuery Data Transfer Service**: Bulk Import Analytics Data [<sup>:link:</sup>](https://cloud.google.com/bigquery/transfer/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/transfer/docs/)
-* **Velostrata**: Lift-and-shift VM Migration [<sup>:link:</sup>](https://cloud.google.com/velostrata/) [<sup>:page_facing_up:</sup>](http://docs.velostrata.com/)
-  
+* **Migrate for Compute Engine & Anthos**: Compute Engine Migration Tools [<sup>:link:</sup>](https://cloud.google.com/migrate/compute-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/velostrata/docs/)
+* **VM Migration**: VM Migration Tools [<sup>:link:</sup>](https://cloud.google.com/vm-migrate/) 
+
 #### API Platform and Ecosystems  
   
 * **API Analytics**: API Metrics [<sup>:link:</sup>](https://cloud.google.com/api-analytics/)
@@ -285,6 +288,10 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 #### Additional Resources
 
+* **Google Cloud Certifications**:[<sup>:link:</sup>](https://cloud.google.com/certification/)
+* **Google Cloud Data Center Locations**:[<sup>:link:</sup>](https://cloud.google.com/about/locations/)
+* **Google Cloud Solutions Library**:[<sup>:link:</sup>](https://cloud.google.com/solutions/)
+* **Google Cloud Support Hub**:[<sup>:link:</sup>](https://cloud.google.com/support-hub/)
 * **GCP Pricing**: [<sup>:link:</sup>](https://cloud.google.com/pricing/)
 * **GCP Pricing Calculator**: [<sup>:link:</sup>](https://cloud.google.com/products/calculator/)
 * **Qwiklabs Home Page**:[<sup>:link:</sup>](https://www.qwiklabs.com/home?locale=en)
@@ -304,15 +311,6 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
   * **/r/dataflow**: [<sup>:link:</sup>](https://www.reddit.com/r/dataflow/)
   * **/r/firebase**: [<sup>:link:</sup>](https://www.reddit.com/r/firebase/)
 
-
-#### Certifications
-
-* **Associate Cloud Engineer**:[<sup>:link:</sup>](https://cloud.google.com/certification/cloud-engineer)
-* **Professional Cloud Architect**:[<sup>:link:</sup>](https://cloud.google.com/certification/cloud-architect)
-* **Professional Data Engineer**:[<sup>:link:</sup>](https://cloud.google.com/certification/data-engineer)
-* **Professional Cloud Developer**:[<sup>:link:</sup>](https://cloud.google.com/certification/cloud-developer)
-* **G Suite**:[<sup>:link:</sup>](https://cloud.google.com/certification/gsuite)
-
 #### Platform Comparisons
 
 * **Google Cloud Platform for AWS Professionals**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/aws/)
@@ -329,5 +327,4 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Ruby**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/ruby/docs/)
 * **PHP**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/php/docs/)
 * **.NET/C#**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/dotnet/docs/)
-
 
