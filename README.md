@@ -71,6 +71,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 * **AI Hub :new:**: Hosted AI Component Sharing [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
 * **AI Platform**: Managed Platform for ML [<sup>:link:</sup>](https://cloud.google.com/ai-platform/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/)
+* **AI Platform Data Labeling :new:**: Data Labeling by Humans [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-labeling/docs/)
 * **AI Platform Deep Learning VMs**: Preconfigured VMs for deep learning [<sup>:link:</sup>](https://cloud.google.com/deep-learning-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deep-learning-vm/docs/)
 * **AI Platform Notebooks :new:**: Managed JupyterLab Notebook Instances [<sup>:link:</sup>](https://cloud.google.com/ai-platform-notebooks/)[<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/notebooks/)
 * **AutoML Natural Language**: Custom text classification models [<sup>:link:</sup>](https://cloud.google.com/natural-language/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/docs/)
@@ -79,17 +80,18 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **AutoML Video Intelligence :new:**: Custom Video Classification Models [<sup>:link:</sup>](https://cloud.google.com/video-intelligence/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/video-intelligence/automl/docs/)
 * **AutoML Vision**: Custom Image Classification Models [<sup>:link:</sup>](https://cloud.google.com/automl/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl/docs/)
 * **Cloud AI Building Blocks :new:**: Hosted AI Component Repository [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
-* **Cloud Natural Language**: Text Parsing and Analysis [<sup>:link:</sup>](https://cloud.google.com/natural-language/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/docs/)
-* **Cloud Speech-To-Text**: Convert Audio to Text [<sup>:link:</sup>](https://cloud.google.com/speech/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/speech/docs/)
-* **Cloud Talent Solutions**: Job Search with ML [<sup>:link:</sup>](https://cloud.google.com/job-discovery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/job-discovery/docs/)
-* **Cloud Text-To-Speech**: Convert Text to Audio [<sup>:link:</sup>](https://cloud.google.com/text-to-speech/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/text-to-speech/docs/)
-* **Cloud TPU**: Hardware Acceleration for ML [<sup>:link:</sup>](https://cloud.google.com/tpu/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/tpu/docs/)
+* **Cloud Natural Language API**: Text Parsing and Analysis [<sup>:link:</sup>](https://cloud.google.com/natural-language/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/docs/)
+* **Cloud Speech-To-Text API**: Convert Audio to Text [<sup>:link:</sup>](https://cloud.google.com/speech/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/speech/docs/)
+* **Cloud Talent Solutions API**: Job Search with ML [<sup>:link:</sup>](https://cloud.google.com/job-discovery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/job-discovery/docs/)
+* **Cloud Text-To-Speech API**: Convert Text to Audio [<sup>:link:</sup>](https://cloud.google.com/text-to-speech/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/text-to-speech/docs/)
 * **Cloud Translation API**: Language Detection and Translation [<sup>:link:</sup>](https://cloud.google.com/translate/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/translate/docs/)
-* **Cloud Video Intelligence**: Scene-level Video Annotation [<sup>:link:</sup>](https://cloud.google.com/video-intelligence/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/video-intelligence/docs/)
+* **Cloud Video Intelligence API**: Scene-level Video Annotation [<sup>:link:</sup>](https://cloud.google.com/video-intelligence/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/video-intelligence/docs/)
 * **Cloud Vision API**: Image Recognition and Classification [<sup>:link:</sup>](https://cloud.google.com/vision/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vision/docs/)
+* **Cloud TPU**: Hardware Acceleration for ML [<sup>:link:</sup>](https://cloud.google.com/tpu/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/tpu/docs/)
 * **Dialogflow Enterprise Edition**: Create Conversational Interfaces [<sup>:link:</sup>](https://cloud.google.com/dialogflow-enterprise/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dialogflow-enterprise/docs/)
 * **Document Understanding AI :new:**: Analyze,Classify,Search Documents [<sup>:link:</sup>](https://cloud.google.com/solutions/document-understanding/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/document-understanding/docs/)
 * **Recommendations AI :new:**: Create Custom Recommendations [<sup>:link:</sup>](https://cloud.google.com/recommendations/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/recommendations-ai/docs/)
+* **Vision Product Search :new:**: Visual Search for Products [<sup>:page_facing_up:</sup>](https://cloud.google.com/vision/product-search/docs/)
 
 #### Networking Products  
   
