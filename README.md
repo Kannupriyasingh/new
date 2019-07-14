@@ -55,6 +55,9 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
   
 #### Data and Analytics Products  
   
+* **BigQuery**: Data Warehouse/Analytics [<sup>:link:</sup>](https://cloud.google.com/bigquery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/docs/)
+* **BigQuery BI Engine :new:**: In Memory Analytics Engine [<sup>:page_facing_up:</sup>](https://cloud.google.com/bi-engine/docs/)
+* **BigQuery ML :new:**: BigQuery Model Training/Serving [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery-ml/docs/)
 * **Cloud Composer**: Managed Workflow Orchestration Service [<sup>:link:</sup>](https://cloud.google.com/composer/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/composer/docs/)
 * **Cloud Data Fusion :new:**: Graphically Manage Data Pipelines [<sup>:link:</sup>](https://cloud.google.com/data-fusion/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-fusion/docs/)
 * **Cloud Dataflow**: Stream/batch data processing [<sup>:link:</sup>](https://cloud.google.com/dataflow/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataflow/docs/)
@@ -63,7 +66,6 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Dataproc**: Managed Spark and Hadoop [<sup>:link:</sup>](https://cloud.google.com/dataproc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataproc/docs/)
 * **Cloud Pub/Sub**: Global Real-time Messaging [<sup>:link:</sup>](https://cloud.google.com/pubsub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/pubsub/docs/)
 * **Data Catalog :new:**: Metadata Management Service  [<sup>:link:</sup>](https://cloud.google.com/data-catalog/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-catalog/docs/)
-* **Google BigQuery**: Data Warehouse/Analytics [<sup>:link:</sup>](https://cloud.google.com/bigquery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/docs/)
 * **Google Data Studio**: Collaborative Data Exploration/Dashboarding [<sup>:link:</sup>](https://datastudio.google.com/overview) [<sup>:page_facing_up:</sup>](https://datastudio.google.com/overviewdocs/)
 * **Google Genomics**: Managed Genomics Platform [<sup>:link:</sup>](https://cloud.google.com/genomics/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/genomics/docs/)
   
