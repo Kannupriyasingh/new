@@ -32,8 +32,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **App Engine**: Managed App Platform [<sup>:link:</sup>](https://cloud.google.com/appengine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/appengine/docs/)
 * **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/)
 * **Cloud Run :new:**: Serverless for Containerized Applications [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
-* **Compute Engine**: Virtual Machines, Disks, Network [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/)
-* **Graphics Processing Unit (GPU) :new:**: NVIDIA Tesla K80/P4/T4/P100/V100 GPUs [<sup>:link:</sup>](https://cloud.google.com/gpu/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/gpus/)
+* **Compute Engine**: VMs, GPUs, TPUs, Disks [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/)
 * **Kubernetes Engine (GKE)**: Managed Kubernetes/Containers [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/)
 * **GKE On-Prem :new:**: Run GKE Clusters Anywhere [<sup>:link:</sup>](https://cloud.google.com/gke-on-prem/)
 * **Anthos :new:**: Enterprise Hybrid/Multi Cloud Platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
@@ -215,7 +214,8 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Places SDK for Android**: Places SDK for Android [<sup>:link:</sup>](https://developers.google.com/places/android-sdk/)
 * **Places SDK for iOS**: Places SDK for iOS [<sup>:link:</sup>](https://developers.google.com/places/ios-sdk/)
 * **Roads API**: Metadata About Roads [<sup>:link:</sup>](https://developers.google.com/maps/documentation/roads/)
-* **Street View API**: Street View API [<sup>:link:</sup>](https://developers.google.com/maps/documentation/streetview/)
+* **Street View Static API**: Static Street View Images [<sup>:link:</sup>](https://developers.google.com/maps/documentation/streetview/)
+* **Street View Service**: Interactive Street View images" [<sup>:link:</sup>](https://developers.google.com/maps/documentation/javascript/streetview/)
 * **Time Zone API**: Convert Coordinates to Timezone [<sup>:link:</sup>](https://developers.google.com/maps/documentation/timezone/)
   
 #### G Suite Platform  
