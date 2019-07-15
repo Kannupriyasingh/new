@@ -77,6 +77,8 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **AI Platform Data Labeling :new:**: Data Labeling by Humans [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-labeling/docs/)
 * **AI Platform Deep Learning VMs**: Preconfigured VMs for deep learning [<sup>:link:</sup>](https://cloud.google.com/deep-learning-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deep-learning-vm/docs/)
 * **AI Platform Notebooks :new:**: Managed JupyterLab Notebook Instances [<sup>:link:</sup>](https://cloud.google.com/ai-platform-notebooks/)[<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/notebooks/)
+* **AI Platform Predictions :new:**: Autoscaled Model Serving [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/tensorflow/prediction-overview)
+* **AI Platform Training :new:**: Parallel and Distributed Training [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/tensorflow/training-overview)
 * **AutoML Natural Language**: Custom text classification models [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/automl/docs/)
 * **AutoML Tables :new:**: Custom Models from Structured Data [<sup>:link:</sup>](https://cloud.google.com/automl-tables/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl-tables/docs/)
 * **AutoML Translation**: Custom Domain-Specific Translation [<sup>:link:</sup>](https://cloud.google.com/translate/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/translate/docs/)
@@ -111,6 +113,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Network Service Tiers**: Price vs Performance Tiering [<sup>:link:</sup>](https://cloud.google.com/network-tiers/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/network-tiers/docs/)
 * **Network Telemetry**: Network Telemetry Service [<sup>:link:</sup>](https://cloud.google.com/network-telemetry/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/using-flow-logs/)
 * **Traffic Director :new:**: Service Mesh Traffic Management [<sup>:link:</sup>](https://cloud.google.com/traffic-director/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/traffic-director/docs/)
+* **Google Cloud Service Mesh :new:**: Service-aware network management [<sup>:link:</sup>](https://cloud.google.com/service-mesh/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)
 * **Virtual Private Cloud**: Software Defined Networking [<sup>:link:</sup>](https://cloud.google.com/vpc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/)
   
 #### Internet of Things Products  
@@ -153,8 +156,8 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Stackdriver Monitoring**: Infrastructure and Application Monitoring [<sup>:link:</sup>](https://cloud.google.com/monitoring/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/monitoring/docs/)
 * **Stackdriver Profiler**: CPU and heap profiling [<sup>:link:</sup>](https://cloud.google.com/profiler/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/profiler/docs/)
 * **Stackdriver Transparent SLIs**: Monitor GCP Services [<sup>:link:</sup>](https://cloud.google.com/transparent-sli/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/apis/docs/monitoring/)
-* **Stackdriver Trace**: App Performance Insights [<sup>:link:</sup>](https://cloud.google.com/trace/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)
-  
+* **Stackdriver Trace**: App Performance Insights [<sup>:link:</sup>](https://cloud.google.com/trace/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)  
+
 #### Developer Tools  
   
 * **Cloud SDK**: CLI for GCP [<sup>:link:</sup>](https://cloud.google.com/sdk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sdk/docs/)
@@ -177,7 +180,8 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Google Transfer Appliance**: Rentable Data Transport Box [<sup>:link:</sup>](https://cloud.google.com/transfer-appliance/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/transfer-appliance/docs/)
 * **Cloud Storage Transfer Service**: Cloud to Cloud Transfers [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/transfer/)
 * **BigQuery Data Transfer Service**: Bulk Import Analytics Data [<sup>:link:</sup>](https://cloud.google.com/bigquery/transfer/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/transfer/docs/)
-* **Migrate for Compute Engine & Anthos**: Compute Engine Migration Tools [<sup>:link:</sup>](https://cloud.google.com/migrate/compute-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/velostrata/docs/)
+* **Migrate for Anthos :new:**: Migrate VMs to GKE Containers [<sup>:link:</sup>](https://cloud.google.com/migrate/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/migrate/anthos/docs/getting-started)
+* **Migrate for Compute Engine**: Compute Engine Migration Tools [<sup>:link:</sup>](https://cloud.google.com/migrate/compute-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/velostrata/docs/)
 * **VM Migration**: VM Migration Tools [<sup>:link:</sup>](https://cloud.google.com/vm-migrate/) 
 
 #### API Platform and Ecosystems  
