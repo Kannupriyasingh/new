@@ -29,13 +29,13 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 #### Compute Products
 
-* **Anthos :new:**: Enterprise Hybrid/Multi Cloud Platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
 * **App Engine**: Managed App Platform [<sup>:link:</sup>](https://cloud.google.com/appengine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/appengine/docs/)
 * **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/)
 * **Cloud Run :new:**: Serverless for Containerized Applications [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
 * **Compute Engine**: Virtual Machines, Disks, Network [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/)
-* **GKE On-Prem :new:**: Run Kubernetes Clusters Anywhere [<sup>:link:</sup>](https://cloud.google.com/gke-on-prem/)
+* **GKE On-Prem :new:**: Run GKE Clusters Anywhere [<sup>:link:</sup>](https://cloud.google.com/gke-on-prem/)
 * **Kubernetes Engine (GKE)**: Managed Kubernetes/Containers [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/)
+* **Anthos :new:**: Enterprise Hybrid/Multi Cloud Platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
    
 #### Storage Products  
   
