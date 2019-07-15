@@ -27,7 +27,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 <sup>:link:-Product page</sup>
 <sup>:page_facing_up:-Documentation</sup>
 
-#### Compute Products
+#### Compute
 
 * **Compute Engine**: Virtual Machines, Disks, Network [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/)
 * **App Engine**: Managed App Platform [<sup>:link:</sup>](https://cloud.google.com/appengine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/appengine/docs/)
@@ -36,7 +36,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Run :new:**: Serverless for Containerized Applications [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
 * **Anthos :new:**: Enterprise Hybrid/Multi Cloud Platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
    
-#### Storage Products  
+#### Storage
   
 * **Cloud Storage**: Object Storage and Serving [<sup>:link:</sup>](https://cloud.google.com/storage/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
 * **Nearline**: Archival Occasional Access Storage [<sup>:link:</sup>](https://cloud.google.com/storage/archival/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
@@ -44,7 +44,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Persistent Disk**: VM-attached Disks [<sup>:link:</sup>](https://cloud.google.com/persistent-disk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/disks/)
 * **Cloud Filestore**: Managed NFS Server [<sup>:link:</sup>](https://cloud.google.com/filestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/filestore/docs/)
   
-#### Database Products  
+#### Database
   
 * **Cloud Bigtable**: Petabyte-scale, low-latency nonrelational [<sup>:link:</sup>](https://cloud.google.com/bigtable/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigtable/docs/)
 * **Cloud Datastore**: Horizontally Scalable Document DB [<sup>:link:</sup>](https://cloud.google.com/datastore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/datastore/docs/)
@@ -53,7 +53,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Spanner**: Horizontally Scalable Relational DB [<sup>:link:</sup>](https://cloud.google.com/spanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/spanner/docs/)
 * **Cloud SQL**: Managed MySQL and PostgreSQL [<sup>:link:</sup>](https://cloud.google.com/sql/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/)
   
-#### Data and Analytics Products  
+#### Data and Analytics 
   
 * **BigQuery**: Data Warehouse/Analytics [<sup>:link:</sup>](https://cloud.google.com/bigquery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/docs/)
 * **BigQuery BI Engine :new:**: In Memory Analytics Engine [<sup>:page_facing_up:</sup>](https://cloud.google.com/bi-engine/docs/)
@@ -69,7 +69,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Data Studio**: Collaborative Data Exploration/Dashboarding [<sup>:link:</sup>](https://datastudio.google.com/overview) [<sup>:page_facing_up:</sup>](https://datastudio.google.com/overviewdocs/)
 * **Genomics**: Managed Genomics Platform [<sup>:link:</sup>](https://cloud.google.com/genomics/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/genomics/docs/)
   
-#### AI and Machine Learning Products    
+#### AI and Machine Learning    
 
 * **AI Hub :new:**: Hosted AI Component Sharing [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
 * **AI Platform**: Managed Platform for ML [<sup>:link:</sup>](https://cloud.google.com/ai-platform/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/)
@@ -95,7 +95,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Recommendations AI :new:**: Create Custom Recommendations [<sup>:link:</sup>](https://cloud.google.com/recommendations/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/recommendations-ai/docs/)
 * **Vision Product Search :new:**: Visual Search for Products [<sup>:page_facing_up:</sup>](https://cloud.google.com/vision/product-search/docs/)
 
-#### Networking Products  
+#### Networking
   
 * **Carrier Peering**: Peer through a carrier [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/how-to/carrier-peering)
 * **Direct Peering**: Peer with GCP [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/how-to/direct-peering)
@@ -112,11 +112,11 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Traffic Director :new:**: Service Mesh Traffic Management [<sup>:link:</sup>](https://cloud.google.com/traffic-director/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/traffic-director/docs/)
 * **Virtual Private Cloud**: Software Defined Networking [<sup>:link:</sup>](https://cloud.google.com/vpc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/)
   
-#### Internet of Things Products  
+#### Internet of Things
   
 * **Cloud IoT Core**: Device Management and ingest data [<sup>:link:</sup>](https://cloud.google.com/iot-core/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iot-core/docs/)
   
-#### Identity and Security Products  
+#### Identity and Security 
   
 * **Access Transparency**: Audit Cloud Provider Access [<sup>:link:</sup>](https://cloud.google.com/access-transparency/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/audit/access-transparency-overview/)
 * **Binary Authorization**: Kubernetes Deploy-time Security [<sup>:link:</sup>](https://cloud.google.com/binary-authorization/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/binary-authorization/docs/)
@@ -137,7 +137,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Titan Security Key**: Two-factor Authentication (2FA) Device [<sup>:link:</sup>](https://cloud.google.com/titan-security-key/)
 * **VPC Service Controls :new:**: VPC Constrain Data [<sup>:link:</sup>](https://cloud.google.com/vpc-service-controls/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc-service-controls/docs/)
   
-#### Management Tools Products  
+#### Management Tools
   
 * **Cloud APIs**: APIs for Cloud Services [<sup>:link:</sup>](https://cloud.google.com/apis/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/apis/docs/)
 * **Cloud Billing**: Billing and Cost Management Tools [<sup>:link:</sup>](https://cloud.google.com/billing/docs/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/billing/docs/docs/)
@@ -233,7 +233,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **G Suite Marketplace**: Storefront for Integrated Applications [<sup>:link:</sup>](https://developers.google.com/gsuite/marketplace/)
 * **Other G Suite APIs/SDKs**: Contacts, Google+, Tasks, Vault... [<sup>:link:</sup>](https://developers.google.com/gsuite/products)
   
-#### Mobile Products (Firebase)  
+#### Mobile (Firebase)  
   
 * **Cloud Firestore**: Document Store and Sync [<sup>:link:</sup>](https://firebase.google.com/products/firestore/)
 * **Cloud Functions for Firebase**: Event-driven Serverless Applications [<sup>:link:</sup>](https://firebase.google.com/products/functions/)
