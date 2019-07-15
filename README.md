@@ -33,6 +33,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/)
 * **Cloud Run :new:**: Serverless for Containerized Applications [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
 * **Compute Engine**: Virtual Machines, Disks, Network [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/)
+* **Graphics Processing Unit (GPU) :new:**: NVIDIA Tesla K80/P4/T4/P100/V100 GPUs [<sup>:link:</sup>](https://cloud.google.com/gpu/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/gpus/)
 * **Kubernetes Engine (GKE)**: Managed Kubernetes/Containers [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/)
 * **GKE On-Prem :new:**: Run GKE Clusters Anywhere [<sup>:link:</sup>](https://cloud.google.com/gke-on-prem/)
 * **Anthos :new:**: Enterprise Hybrid/Multi Cloud Platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
