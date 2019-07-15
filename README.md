@@ -79,11 +79,11 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **AI Platform Notebooks :new:**: Managed JupyterLab Notebook Instances [<sup>:link:</sup>](https://cloud.google.com/ai-platform-notebooks/)[<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/notebooks/)
 * **AI Platform Training :new:**: Parallel and Distributed Training [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/tensorflow/training-overview)
 * **AI Platform Predictions :new:**: Autoscaled Model Serving [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/tensorflow/prediction-overview)
-* **AutoML Natural Language**: Custom text classification models [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/automl/docs/)
+* **AutoML Natural Language**: Custom Text Models [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/automl/docs/)
 * **AutoML Tables :new:**: Custom Models from Structured Data [<sup>:link:</sup>](https://cloud.google.com/automl-tables/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl-tables/docs/)
 * **AutoML Translation**: Custom Domain-Specific Translation [<sup>:link:</sup>](https://cloud.google.com/translate/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/translate/docs/)
 * **AutoML Video Intelligence :new:**: Custom Video Annotation Models [<sup>:link:</sup>](https://cloud.google.com/video-intelligence/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/video-intelligence/automl/docs/)
-* **AutoML Vision**: Custom Image Classification Models [<sup>:link:</sup>](https://cloud.google.com/automl/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl/docs/)
+* **AutoML Vision**: Custom Image Models [<sup>:link:</sup>](https://cloud.google.com/automl/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl/docs/)
 * **Cloud AI Building Blocks :new:**: Hosted AI Component Repository [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
 * **Cloud Natural Language API**: Text Parsing and Analysis [<sup>:link:</sup>](https://cloud.google.com/natural-language/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/docs/)
 * **Cloud Speech-To-Text API**: Convert Audio to Text [<sup>:link:</sup>](https://cloud.google.com/speech/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/speech/docs/)
@@ -334,4 +334,3 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Ruby**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/ruby/docs/)
 * **PHP**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/php/docs/)
 * **.NET/C#**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/dotnet/docs/)
-
