@@ -80,7 +80,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **AI Platform Training :new:**: Parallel and Distributed Training [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/tensorflow/training-overview)
 * **AI Platform Predictions :new:**: Autoscaled Model Serving [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/tensorflow/prediction-overview)
 * **AutoML Natural Language**: Custom Text Models [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/automl/docs/)
-* **AutoML Tables :new:**: Custom Models from Structured Data [<sup>:link:</sup>](https://cloud.google.com/automl-tables/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl-tables/docs/)
+* **AutoML Tables :new:**: Custom Structured Data Models [<sup>:link:</sup>](https://cloud.google.com/automl-tables/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl-tables/docs/)
 * **AutoML Translation**: Custom Domain-Specific Translation [<sup>:link:</sup>](https://cloud.google.com/translate/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/translate/docs/)
 * **AutoML Video Intelligence :new:**: Custom Video Annotation Models [<sup>:link:</sup>](https://cloud.google.com/video-intelligence/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/video-intelligence/automl/docs/)
 * **AutoML Vision**: Custom Image Models [<sup>:link:</sup>](https://cloud.google.com/automl/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl/docs/)
