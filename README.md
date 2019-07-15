@@ -77,8 +77,8 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **AI Platform Data Labeling :new:**: Data Labeling by Humans [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-labeling/docs/)
 * **AI Platform Deep Learning VMs**: Preconfigured VMs for deep learning [<sup>:link:</sup>](https://cloud.google.com/deep-learning-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deep-learning-vm/docs/)
 * **AI Platform Notebooks :new:**: Managed JupyterLab Notebook Instances [<sup>:link:</sup>](https://cloud.google.com/ai-platform-notebooks/)[<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/notebooks/)
-* **AI Platform Predictions :new:**: Autoscaled Model Serving [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/tensorflow/prediction-overview)
 * **AI Platform Training :new:**: Parallel and Distributed Training [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/tensorflow/training-overview)
+* **AI Platform Predictions :new:**: Autoscaled Model Serving [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/tensorflow/prediction-overview)
 * **AutoML Natural Language**: Custom text classification models [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/automl/docs/)
 * **AutoML Tables :new:**: Custom Models from Structured Data [<sup>:link:</sup>](https://cloud.google.com/automl-tables/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl-tables/docs/)
 * **AutoML Translation**: Custom Domain-Specific Translation [<sup>:link:</sup>](https://cloud.google.com/translate/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/translate/docs/)
@@ -334,3 +334,4 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Ruby**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/ruby/docs/)
 * **PHP**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/php/docs/)
 * **.NET/C#**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/dotnet/docs/)
+
