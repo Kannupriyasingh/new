@@ -195,7 +195,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Apigee Hybrid :new:**: Manage hybrid/multi-cloud API environments [<sup>:link:</sup>](https://cloud.google.com/apigee/api-management/hybrid/)[<sup>:page_facing_up:</sup>](https://docs.apigee.com/hybrid/beta2)
 * **Cloud Endpoints**: Cloud API gateway [<sup>:link:</sup>](https://cloud.google.com/endpoints/)
 * **Cloud Healthcare API**: Healthcare system GCP interoperability [<sup>:link:</sup>](https://cloud.google.com/healthcare-api/)
-* **Developer Portal**: API managment portal [<sup>:link:</sup>](https://cloud.google.com/developer-portal/)
+* **Developer Portal**: API management portal [<sup>:link:</sup>](https://cloud.google.com/developer-portal/)
 * **GCP Marketplace**: Partner & open source marketplace [<sup>:link:</sup>](https://cloud.google.com/marketplace/)
   
 ### Google Maps Platform  
@@ -234,7 +234,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Gmail API**: Enhance Gmail [<sup>:link:</sup>](https://developers.google.com/gmail/)
 * **Sheets API**: Read and write spreadsheets [<sup>:link:</sup>](https://developers.google.com/sheets/api/)
 * **Slides API**: Create and edit presentations [<sup>:link:</sup>](https://developers.google.com/slides/)
-* **Drive Picker**: Drive dile selection widget [<sup>:link:</sup>](https://developers.google.com/picker/)
+* **Drive Picker**: Drive file selection widget [<sup>:link:</sup>](https://developers.google.com/picker/)
 * **Cloud Search**: Unified search for enterprise [<sup>:link:</sup>](https://developers.google.com/cloud-search/docs/guides/)
 * **Admin SDK**: Manage G Suite resources [<sup>:link:</sup>](https://developers.google.com/admin-sdk)
 * **Email Markup**: Interactive email using schema.org [<sup>:link:</sup>](https://developers.google.com/gmail/markup/)
@@ -255,7 +255,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Firebase Hosting**: Web hosting with CDN/SSL [<sup>:link:</sup>](https://firebase.google.com/products/hosting/)
 * **Firebase In-App Messaging**: Send  in-app contextual messages [<sup>:link:</sup>](https://firebase.google.com/products/in-app-messaging/)
 * **Firebase Performance Monitoring**: App performance monitoring [<sup>:link:</sup>](https://firebase.google.com/products/performance/)
-* **Firebase Predictions**: Predict user targetting [<sup>:link:</sup>](https://firebase.google.com/products/predictions/)
+* **Firebase Predictions**: Predict user targeting [<sup>:link:</sup>](https://firebase.google.com/products/predictions/)
 * **Firebase Realtime Database**: Real-time data synchronization [<sup>:link:</sup>](https://firebase.google.com/products/realtime-database/)
 * **Firebase Remote Config**: Remotely configure installed apps [<sup>:link:</sup>](https://firebase.google.com/docs/remote-config/)
 * **Firebase Test Lab**: Mobile testing device farm [<sup>:link:</sup>](https://firebase.google.com/docs/test-lab/)
@@ -337,3 +337,4 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Ruby**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/ruby/docs/)
 * **PHP**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/php/docs/)
 * **.NET/C#**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/dotnet/docs/)
+
