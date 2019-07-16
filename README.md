@@ -70,7 +70,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Data Studio**: Collaborative data exploration/dashboarding [<sup>:link:</sup>](https://datastudio.google.com/overview) [<sup>:page_facing_up:</sup>](https://datastudio.google.com/overviewdocs/)
 * **Genomics**: Managed genomics platform [<sup>:link:</sup>](https://cloud.google.com/genomics/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/genomics/docs/)
   
-### AI and Machine Learning   
+### AI/ML 
 
 * **AI Hub :new:**: Hosted AI component sharing [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
 * **AI Platform**: Managed platform for ML [<sup>:link:</sup>](https://cloud.google.com/ai-platform/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/)
@@ -116,7 +116,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Google Cloud Service Mesh :new:**: Service-aware network management [<sup>:link:</sup>](https://cloud.google.com/service-mesh/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)
 * **Virtual Private Cloud**: Software defined networking [<sup>:link:</sup>](https://cloud.google.com/vpc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/)
   
-### IoT 
+### Internet of Things (IoT) 
   
 * **Cloud IoT Core**: Device management and ingest data [<sup>:link:</sup>](https://cloud.google.com/iot-core/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iot-core/docs/)
   
@@ -248,7 +248,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Storage for Firebase**: Object storage and serving [<sup>:link:</sup>](https://firebase.google.com/products/storage/)
 * **Crashlytics**: Crash reporting and analytics [<sup>:link:</sup>](https://fabric.io/kits/android/crashlytics/summary)
 * **Firebase A/B Testing**: Create A/B test experiments [<sup>:link:</sup>](https://firebase.google.com/products/ab-testing/)
-* **Firebase App Indexing**: App / Google search integration [<sup>:link:</sup>](https://firebase.google.com/products/app-indexing/)
+* **Firebase App Indexing**: App/Google search integration [<sup>:link:</sup>](https://firebase.google.com/products/app-indexing/)
 * **Firebase Authentication**: Drop-in authentication [<sup>:link:</sup>](https://firebase.google.com/products/auth/)
 * **Firebase Cloud Messaging**: Send device notifications [<sup>:link:</sup>](https://firebase.google.com/products/cloud-messaging/)
 * **Firebase Dynamic Links**: Link to app content [<sup>:link:</sup>](https://firebase.google.com/products/dynamic-links/)
@@ -337,4 +337,3 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Ruby**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/ruby/docs/)
 * **PHP**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/php/docs/)
 * **.NET/C#**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/dotnet/docs/)
-
