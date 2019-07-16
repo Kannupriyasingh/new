@@ -43,7 +43,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Nearline**: Archival occasional access storage [<sup>:link:</sup>](https://cloud.google.com/storage/archival/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
 * **Coldline**: Archival rare access storage [<sup>:link:</sup>](https://cloud.google.com/storage/archival/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
 * **Persistent Disk**: VM-attached disks [<sup>:link:</sup>](https://cloud.google.com/persistent-disk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/disks/)
-* **Cloud Filestore**: Managed NFS derver [<sup>:link:</sup>](https://cloud.google.com/filestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/filestore/docs/)
+* **Cloud Filestore**: Managed NFS server [<sup>:link:</sup>](https://cloud.google.com/filestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/filestore/docs/)
   
 #### Database Products  
   
