@@ -27,7 +27,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 <sup>:link:-Product page</sup>
 <sup>:page_facing_up:-Documentation</sup>
 
-#### Compute
+### Compute
 
 * **App Engine**: Managed app platform [<sup>:link:</sup>](https://cloud.google.com/appengine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/appengine/docs/)
 * **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/)
@@ -37,7 +37,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **GKE On-Prem :new:**: Run GKE clusters anywhere [<sup>:link:</sup>](https://cloud.google.com/gke-on-prem/)
 * **Anthos :new:**: Enterprise hybrid/multi-cloud platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
    
-#### Storage
+### Storage
   
 * **Cloud Storage**: Object storage and serving [<sup>:link:</sup>](https://cloud.google.com/storage/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
 * **Nearline**: Archival occasional access storage [<sup>:link:</sup>](https://cloud.google.com/storage/archival/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
@@ -45,7 +45,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Persistent Disk**: VM-attached disks [<sup>:link:</sup>](https://cloud.google.com/persistent-disk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/disks/)
 * **Cloud Filestore**: Managed NFS server [<sup>:link:</sup>](https://cloud.google.com/filestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/filestore/docs/)
   
-#### Database 
+### Database 
   
 * **Cloud Bigtable**: Petabyte-scale, low-latency, non-relational [<sup>:link:</sup>](https://cloud.google.com/bigtable/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigtable/docs/)
 * **Cloud Datastore**: Horizontally scalable document DB [<sup>:link:</sup>](https://cloud.google.com/datastore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/datastore/docs/)
@@ -54,7 +54,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Spanner**: Horizontally scalable relational DB [<sup>:link:</sup>](https://cloud.google.com/spanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/spanner/docs/)
 * **Cloud SQL**: Managed MySQL and PostgreSQL [<sup>:link:</sup>](https://cloud.google.com/sql/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/)
   
-#### Data and Analytics 
+### Data and Analytics 
   
 * **BigQuery**: Data warehouse/analytics [<sup>:link:</sup>](https://cloud.google.com/bigquery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/docs/)
 * **BigQuery BI Engine :new:**: In-memory analytics engine [<sup>:page_facing_up:</sup>](https://cloud.google.com/bi-engine/docs/)
@@ -70,7 +70,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Data Studio**: Collaborative data exploration/dashboarding [<sup>:link:</sup>](https://datastudio.google.com/overview) [<sup>:page_facing_up:</sup>](https://datastudio.google.com/overviewdocs/)
 * **Genomics**: Managed genomics platform [<sup>:link:</sup>](https://cloud.google.com/genomics/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/genomics/docs/)
   
-#### AI and Machine Learning   
+### AI and Machine Learning   
 
 * **AI Hub :new:**: Hosted AI component sharing [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
 * **AI Platform**: Managed platform for ML [<sup>:link:</sup>](https://cloud.google.com/ai-platform/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/)
@@ -98,7 +98,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Recommendations AI :new:**: Create custom recommendations [<sup>:link:</sup>](https://cloud.google.com/recommendations/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/recommendations-ai/docs/)
 * **Vision Product Search :new:**: Visual search for products [<sup>:page_facing_up:</sup>](https://cloud.google.com/vision/product-search/docs/)
 
-#### Networking 
+### Networking 
   
 * **Carrier Peering**: Peer through a carrier [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/how-to/carrier-peering)
 * **Direct Peering**: Peer with GCP [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/how-to/direct-peering)
@@ -116,11 +116,11 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Google Cloud Service Mesh :new:**: Service-aware network management [<sup>:link:</sup>](https://cloud.google.com/service-mesh/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)
 * **Virtual Private Cloud**: Software defined networking [<sup>:link:</sup>](https://cloud.google.com/vpc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/)
   
-#### IoT 
+### IoT 
   
 * **Cloud IoT Core**: Device management and ingest data [<sup>:link:</sup>](https://cloud.google.com/iot-core/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iot-core/docs/)
   
-#### Identity and Security
+### Identity and Security
   
 * **Access Transparency**: Audit cloud provider access [<sup>:link:</sup>](https://cloud.google.com/access-transparency/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/audit/access-transparency-overview/)
 * **Binary Authorization**: Kubernetes deploy-time security [<sup>:link:</sup>](https://cloud.google.com/binary-authorization/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/binary-authorization/docs/)
@@ -141,7 +141,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Titan Security Key**: Two-factor authentication (2FA) device [<sup>:link:</sup>](https://cloud.google.com/titan-security-key/)
 * **VPC Service Controls :new:**: VPC constrain data [<sup>:link:</sup>](https://cloud.google.com/vpc-service-controls/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc-service-controls/docs/)
   
-#### Management Tools 
+### Management Tools 
   
 * **Cloud APIs**: APIs for cloud services [<sup>:link:</sup>](https://cloud.google.com/apis/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/apis/docs/)
 * **Cloud Billing**: Billing and cost management tools [<sup>:link:</sup>](https://cloud.google.com/billing/docs/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/billing/docs/docs/)
@@ -158,7 +158,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Stackdriver Transparent SLIs**: Monitor GCP services [<sup>:link:</sup>](https://cloud.google.com/transparent-sli/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/apis/docs/monitoring/)
 * **Stackdriver Trace**: App performance insights [<sup>:link:</sup>](https://cloud.google.com/trace/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)  
 
-#### Developer Tools  
+### Developer Tools  
   
 * **Cloud SDK**: CLI for GCP [<sup>:link:</sup>](https://cloud.google.com/sdk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sdk/docs/)
 * **Cloud Build**: Continuous integration/delivery platform [<sup>:link:</sup>](https://cloud.google.com/cloud-build/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/cloud-build/docs/)
@@ -174,7 +174,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Gradle App Engine Plugin**: Gradle App Engine plugin [<sup>:link:</sup>](https://github.com/GoogleCloudPlatform/app-gradle-plugin)
 * **Maven App Engine Plugin**: Maven App Engine plugin [<sup>:link:</sup>](https://github.com/GoogleCloudPlatform/app-maven-plugin)
   
-#### Migration to GCP  
+### Migration to GCP  
   
 * **Cloud Data Transfer**: Data migration tools/CLI [<sup>:link:</sup>](https://cloud.google.com/products/data-transfer/)
 * **Google Transfer Appliance**: Rentable data transport box [<sup>:link:</sup>](https://cloud.google.com/transfer-appliance/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/transfer-appliance/docs/)
@@ -184,7 +184,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Migrate for Compute Engine**: Compute Engine migration tools [<sup>:link:</sup>](https://cloud.google.com/migrate/compute-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/velostrata/docs/)
 * **VM Migration**: VM migration tools [<sup>:link:</sup>](https://cloud.google.com/vm-migrate/) 
 
-#### API Platform and Ecosystems  
+### API Platform and Ecosystems  
   
 * **API Analytics**: API metrics [<sup>:link:</sup>](https://cloud.google.com/api-analytics/)
 * **API Monetization**: Monetize APIs [<sup>:link:</sup>](https://cloud.google.com/api-monetization/)
@@ -196,7 +196,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Developer Portal**: API managment portal [<sup>:link:</sup>](https://cloud.google.com/developer-portal/)
 * **GCP Marketplace**: Partner & open source marketplace [<sup>:link:</sup>](https://cloud.google.com/marketplace/)
   
-#### Google Maps Platform  
+### Google Maps Platform  
   
 * **Directions API**: Get directions between locations [<sup>:link:</sup>](https://developers.google.com/maps/documentation/directions/)
 * **Distance Matrix API**: Calculate travel times [<sup>:link:</sup>](https://developers.google.com/maps/documentation/distance-matrix/intro)
@@ -218,7 +218,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Street View Service**: Interactive street view images" [<sup>:link:</sup>](https://developers.google.com/maps/documentation/javascript/streetview/)
 * **Time Zone API**: Convert coordinates to timezone [<sup>:link:</sup>](https://developers.google.com/maps/documentation/timezone/)
   
-#### G Suite Platform  
+### G Suite Platform  
   
 * **App Maker**: Assistive app building [<sup>:link:</sup>](https://developers.google.com/appmaker/)
 * **Apps Script**: Extend and automate everything [<sup>:link:</sup>](https://developers.google.com/apps-script/)
@@ -239,7 +239,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **G Suite Marketplace**: Storefront for integrated applications [<sup>:link:</sup>](https://developers.google.com/gsuite/marketplace/)
 * **Other G Suite APIs/SDKs**: Contacts, Google+, Tasks, Vault... [<sup>:link:</sup>](https://developers.google.com/gsuite/products)
   
-#### Mobile (Firebase)  
+### Mobile (Firebase)  
   
 * **Cloud Firestore**: Document store and sync [<sup>:link:</sup>](https://firebase.google.com/products/firestore/)
 * **Cloud Functions for Firebase**: Event-driven serverless applications [<sup>:link:</sup>](https://firebase.google.com/products/functions/)
@@ -260,7 +260,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Google Analytics for Firebase**: Mobile app analytics [<sup>:link:</sup>](https://firebase.google.com/products/analytics/)
 * **ML Kit for Firebase**: ML APIs for mobile [<sup>:link:</sup>](https://firebase.google.com/products/ml-kit/)
   
-#### GCP Foundational Open Source Projects
+### GCP Foundational Open Source Projects
   
 * **Apache Beam**: Batch/streaming data processing [<sup>:link:</sup>](https://beam.apache.org/)
 * **gRPC**: RPC framework [<sup>:link:</sup>](https://grpc.io/)
@@ -272,7 +272,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **OpenCensus**: Cloud native observability framework [<sup>:link:</sup>](https://opencensus.io/)
 * **TensorFlow**: ML framework [<sup>:link:</sup>](https://www.tensorflow.org/)
 
-#### Additional Resources
+### Additional Resources
 
 * **Google Cloud Home Page**: [<sup>:link:</sup>](https://cloud.google.com)
 * **Google Cloud Blog**: [<sup>:link:</sup>](https://cloud.google.com/blog)
@@ -292,11 +292,11 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Regions and Network Map**: [<sup>:link:</sup>](https://cloud.google.com/about/locations)
 
 ----------------------------
-##### Everything below is not included in the PDFs/PNGs due to space limitations
+### Everything below is not included in the PDFs/PNGs due to space limitations
 
 ----------------------------
 
-#### Additional Resources
+### Additional Resources
 
 * **Google Cloud Solutions Library**:[<sup>:link:</sup>](https://cloud.google.com/solutions/)
 * **Google Cloud Support Hub**:[<sup>:link:</sup>](https://cloud.google.com/support-hub/)
@@ -319,14 +319,14 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
   * **/r/dataflow**: [<sup>:link:</sup>](https://www.reddit.com/r/dataflow/)
   * **/r/firebase**: [<sup>:link:</sup>](https://www.reddit.com/r/firebase/)
 
-#### Platform Comparisons
+### Platform Comparisons
 
 * **Google Cloud Platform for AWS Professionals**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/aws/)
 * **Google Cloud Platform for Azure Professionals**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/azure/)
 * **Google Cloud Platform for Data Center Professionals**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/data-centers/)
 * **Google Cloud Platform for OpenStack Users**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/openstack/)
 
-#### Language Specific Documentation
+### Language Specific Documentation
 
 * **Java**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/java/docs/)
 * **Node.js**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/nodejs/docs/)
@@ -335,3 +335,4 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Ruby**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/ruby/docs/)
 * **PHP**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/php/docs/)
 * **.NET/C#**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/dotnet/docs/)
+
