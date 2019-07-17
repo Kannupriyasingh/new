@@ -1,16 +1,16 @@
 # The Google Cloud Developer's Cheat Sheet
 by the Google Developer Relations Team\
 A list of every product in the Google Cloud family described in 4 words or less\
-<a target="_blank" href="https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png"><img style="border:1px solid black" alt="Poster Image" src="https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png"></a>\
-[Poster PDF](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster.pdf)
+<a target="_blank" href="Poster-medres.png"><img style="border:1px solid black" alt="Poster Image" src="Poster-medres.png"></a>\
+[Poster PDF](Poster.pdf)
 |
-[Tri-fold Brochure PDF](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Brochure.pdf)
+[Tri-fold Brochure PDF](Brochure.pdf)
 |
-[High-resolution PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-hires.png)
+[High-resolution PNG](Poster-hires.png)
 |
-[Medium-res PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png)
+[Medium-res PNG](Poster-medres.png)
 |
-[Low-res PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-lowres.png)
+[Low-res PNG](Poster-lowres.png)
 |
 [Text (w/links)](#all-products)
 
