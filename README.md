@@ -162,7 +162,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
   
 * **Cloud SDK**: CLI for GCP [<sup>:link:</sup>](https://cloud.google.com/sdk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sdk/docs/)
 * **Cloud Build**: Continuous integration/delivery platform [<sup>:link:</sup>](https://cloud.google.com/cloud-build/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/cloud-build/docs/)
-* **Cloud Code :new:**: Kubernetes application IDE tools [<sup>:link:</sup>](https://cloud.google.com/code/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/code/docs/)
+* **Cloud Code :new:**: Cloud native IDE extensions [<sup>:link:</sup>](https://cloud.google.com/code/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/code/docs/)
 * **Cloud Source Repositories**: Hosted private git repos [<sup>:link:</sup>](https://cloud.google.com/source-repositories/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/source-repositories/docs/)
 * **Cloud Scheduler**: Managed cron job service [<sup>:link:</sup>](https://cloud.google.com/scheduler/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/scheduler/docs/)
 * **Cloud Tasks :new:**: Asynchronous task execution [<sup>:link:</sup>](https://cloud.google.com/tasks/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/tasks/docs/)
