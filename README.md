@@ -1,6 +1,6 @@
 # The Google Cloud Developer's Cheat Sheet
-by the Google Developer Relations Team\
 Every product in the Google Cloud family described in <=4 words (with liberal use of hypens and slashes :smirk:)\
+by the Google Developer Relations Team\
 <a target="_blank" href="Poster-medres.png"><img border="1" alt="Google Cloud Developer's Cheat Sheet Poster Image" src="Poster-lowres.png"></a>\
 [Poster PDF](Poster.pdf)
 |
