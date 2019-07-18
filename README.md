@@ -14,7 +14,7 @@ by the Google Developer Relations Team\
 |
 [Text (w/links)](#all-products)
 
-Do you have suggestions for better descriptions? Missing products? Pull requests are welcome on README.md (this file).
+Suggestions for better descriptions? Missing products? Pull requests are welcome on README.md (this file).
 
 Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@gregsramblings](https://twitter.com/gregsramblings)
 
